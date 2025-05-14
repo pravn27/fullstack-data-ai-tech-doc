@@ -87,8 +87,8 @@ const config = {
           //   label: "About VS System",
           // },
           {
-            to: "/docs/category/reactjs-documentations",
-            label: "ReactJS",
+            to: "/docs/category/introduction",
+            label: "FullStack Data AI",
             position: "left",
           },
           {
@@ -111,11 +111,11 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "ReactJS",
+            title: "FullStack Data AI",
             items: [
               {
-                label: "ReactJS",
-                to: "/docs/category/reactjs-documentations",
+                label: "FullStack Data AI",
+                to: "/docs/category/introduction",
               },
             ],
           },
