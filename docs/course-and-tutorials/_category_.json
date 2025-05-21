@@ -1,0 +1,8 @@
+{
+  "label": "Course & Tutorials tech docs",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Contains complete FullStack Data AI courses & tutorials tech docs, references & related links."
+  }
+}
