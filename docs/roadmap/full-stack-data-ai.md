@@ -7,6 +7,7 @@ sidebar_position: 1
 - Roadmap to follow 2025 - 2026
 
   - https://www.youtube.com/watch?v=m_34mufafYY&t=362s&ab_channel=KrishNaik
+  - https://www.youtube.com/watch?v=TYEqenKrbaM&ab_channel=KrishNaik
 
 - With complete **Data Analytics Industry**, below are possible different roles
 
